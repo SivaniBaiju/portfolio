@@ -27,7 +27,7 @@ function App() {
           />
         </div>
         <div className="w-full sm:w-9/12 sm:mx-10 mx-auto">
-          <div className=" text-white mb-10 text-5xl">Sivani Baiju</div>
+          <div className="text-transparent bg-gradient-to-r from-red-700 to-yellow-400 bg-clip-text mb-10 text-5xl">SIVANI BAIJU</div>
           <div className="text-transparent bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text font-semibold text-lg ">
             Frontend developer who love to craft pixel perfect, responsive UI
             with great user experience
