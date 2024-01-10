@@ -67,20 +67,20 @@ function App() {
           {" "}
           2. Form validation done using Formik and Yup
         </div>
-        <div className="mt-2 text-lg"> 3. Setup redux toolkit store</div>
-        <div className="mt-2 text-lg"> 4. Used TailwindCSS for styling</div>
+        <div className="mt-2 text-lg"> 3. Implemented dynamic API fetching from TMDB REST API for showing the
+          movie list</div>
+        <div className="mt-2 text-lg"> 4. Integrated openai GPT 3.5 search filter </div>
         <div className="mt-2 text-lg">
           {" "}
           5. Embedded the Yotube video and made it autoplay
         </div>
         <div className="mt-2 text-lg">
           {" "}
-          6. Implemented dynamic API fetching from TMDB REST API for showing the
-          movie list
+          6. Setup redux toolkit store
         </div>
         <div className="mt-2 text-lg">
           {" "}
-          7. Integrated openai GPT 3.5 search filter
+          7. Used TailwindCSS for styling
         </div>
         <div className="flex">
           <button
