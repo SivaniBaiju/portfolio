@@ -9,7 +9,7 @@ import "./App.css";
 function App() {
   const onClickNet = () => {
     // window.location.href = "https://netflixgpt-sivani.web.app/";
-    window.open('https://netflixgpt-sivani.web.app/', '_blank', 'noreferrer');
+    window.open('https://netflixgpt-sivani.netlify.app/', '_blank', 'noreferrer');
   };
 
   const onClickGithub = () => {
